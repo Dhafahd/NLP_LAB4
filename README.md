@@ -86,6 +86,6 @@ Overall, our journey through these various parts emphasized the significance of 
 <a id="5">[5]</a>  https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html\
 <a id="6">[6]</a>Upadorprofzs. (2021, March 11). Indian Food - EDA 🍲 | Data Visualization . Kaggle. https://www.kaggle.com/code/upadorprofzs/indian-food-eda-data-visualization/input \
 <a id="7">[7]</a> openai-community/gpt2 · Hugging Face. (n.d.). https://huggingface.co/openai-community/gpt2 \
-<a id="8">[7]</a> BERT. (n.d.). https://huggingface.co/docs/transformers/model_doc/bert
+<a id="8">[8]</a> BERT. (n.d.). https://huggingface.co/docs/transformers/model_doc/bert
 
 
