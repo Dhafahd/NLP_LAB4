@@ -1,7 +1,6 @@
 ### MST AIDS 2023-2024 (Département Génie Informatique)
-**Subject : The main purpose behind this lab is to get familiar with ule-based techniques, Regex, and NLP Word Embedding.**\
+**Subject : : The main purpose behind this lab is to get familiar with NLP language models using Pytorch library .**\
 **Realize by : Chibani Fahd**\
-**web source : Aljarida24r**\
 **Course : NLP**\
 
 ## Part1 : Classification Regression:
