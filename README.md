@@ -58,7 +58,9 @@ Next, we'll fine-tune and train our BERT model, carefully selecting hyperparamet
 Once trained, we'll evaluate the model's performance using standard metrics such as accuracy, loss, and F1 score. Additionally, we'll explore other relevant metrics like the BLEU score and BERT-specific metrics to gain deeper insights into the model's capabilities.
 
 Finally, we'll draw a general conclusion regarding the effectiveness and utility of using a pre-trained BERT model for sentiment analysis tasks, highlighting its strengths and potential areas for improvement. This analysis provides valuable insights into the practical applications of BERT in sentiment analysis and its overall impact on understanding Amazon Fashion ratings.
+
 ```python
+
 Testing our model  :
 
 Input : it was normal
@@ -75,11 +77,15 @@ Transitioning to sentiment analysis, we explored the use of the pre-trained BERT
 
 Overall, our journey through these various parts emphasized the significance of combining data preprocessing, model fine-tuning, and thorough evaluation to achieve efficient and effective NLP solutions. We saw firsthand the impact of using pre-trained models like GPT-2 and BERT, which offer state-of-the-art performance and flexibility, making them invaluable tools for a wide range of NLP applications.
 
-<a id="1">[1]</a>Jeet. (2021, December 15). One Hot encoding of text data in Natural Language Processing. Medium. https://medium.com/analytics-vidhya/one-hot-encoding-of-text-data-in-natural-language-processing-2242fefb2148 \
-<a id="2">[2]</a> Alkhatib, R. M., Zerrouki, T., Shquier, M. M. A., & Balla, A. (2023). Tashaphyne0.4: A new Arabic light stemmer based on rhizome modeling approach. Information Retrieval Journal, 26(14). doi: https://doi.org/10.1007/s10791-023-09429-y \
-<a id="3">[3]</a>  notebook.community. (n.d.). https://notebook.community/arcyfelix/Courses/18-03-07-Deep%20Learning%20With%20Python%20by%20Fran%C3%A7ois%20Chollet/.ipynb_checkpoints/Chapter%206.1.1%20-%20One-hot%20encoding%20of%20words%20and%20characters-checkpoint/ \
-<a id="4">[4]</a> MagedSaeed. (n.d.). GitHub - MagedSaeed/farasapy: A Python implementation of Farasa toolkit. GitHub. https://github.com/MagedSaeed/farasapy?tab=readme-ov-file#want-to-cite \
-<a id="5">[5]</a> Munther, I. (2021, December 30). Sentiment Analysis of Arabic Text Data (Tweets) - Analytics Vidhya - Medium. Medium. https://medium.com/analytics-vidhya/sentiment-analysis-of-arabic-text-data-tweets-4e96c8da892b \
-<a id="6">[6]</a> freeCodeCamp.org. (2019, July 24). How to process textual data using TF-IDF in Python. https://www.freecodecamp.org/news/how-to-process-textual-data-using-tf-idf-in-python-cd2bbc0a94a3/ \
-<a id="7">[7]</a>  GeeksforGeeks. (2024, January 3). Word Embedding using Word2Vec. GeeksforGeeks. https://www.geeksforgeeks.org/python-word-embedding-using-word2vec/
+
+
+<a id="1">[1]</a>Pandey, S. (2023, February 7). How to perform Web Scraping using Selenium and Python | BrowserStack. BrowserStack. https://www.browserstack.com/guide/web-scraping-using-selenium-python \
+<a id="2">[2]</a>GeeksforGeeks. (2023, June 8). Bidirectional recurrent neural network. GeeksforGeeks. https://www.geeksforgeeks.org/bidirectional-recurrent-neural-network/ \
+<a id="3">[3]</a> RNN — PyTorch 2.3 documentation. (n.d.). https://pytorch.org/docs/stable/generated/torch.nn.RNN.html \
+<a id="4">[4]</a> https://pytorch.org/docs/stable/generated/torch.nn.GRU.html \
+<a id="5">[5]</a>  https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html\
+<a id="6">[6]</a>Upadorprofzs. (2021, March 11). Indian Food - EDA 🍲 | Data Visualization . Kaggle. https://www.kaggle.com/code/upadorprofzs/indian-food-eda-data-visualization/input \
+<a id="7">[7]</a> openai-community/gpt2 · Hugging Face. (n.d.). https://huggingface.co/openai-community/gpt2 \
+<a id="8">[7]</a> BERT. (n.d.). https://huggingface.co/docs/transformers/model_doc/bert
+
 
