@@ -1,7 +1,7 @@
 ### MST AIDS 2023-2024 (Département Génie Informatique)
 **Subject : : The main purpose behind this lab is to get familiar with NLP language models using Pytorch library .**\
 **Realize by : Chibani Fahd**\
-**Course : NLP**\
+**Course : NLP**
 
 ## Part1 : Classification Regression:
 ## Introduction
